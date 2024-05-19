@@ -5,7 +5,7 @@ Hi 👋 My name is Pedro
 ---------------------------------
 
 *   🌍  I'm based in Portugal
-*   🧠  I'm learning Haskell / C
+*   🧠  I'm learning Haskell / C / Java
 <p align="left">     
 <a href="https://www.github.com/PedroTe010" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PedroTe010?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a>
 </p>
