@@ -1,7 +1,7 @@
 Hi 👋 My name is Pedro
 ======================
 
-\->Informatics Engineer Student<-
+\->Engineer Student<-
 ---------------------------------
 
 *   🌍  I'm based in Portugal
